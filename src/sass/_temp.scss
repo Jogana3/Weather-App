@@ -1,0 +1,23 @@
+.temp{
+    font-size: 3.5rem;
+    width: 320px;
+    height: 100%;
+    align-self: center;
+    margin: 0;
+    font-weight: bold;
+}
+
+.flex-temp{
+    width: 320px;
+    height: 95px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-bottom: 1px dashed #000;
+    background-color: $flex-temp-back-color;
+    border-radius: 20px;
+}
+
+.flex-temp .wi{
+    font-size: 50px;
+}

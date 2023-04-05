@@ -1,0 +1,21 @@
+.desc-container{
+    flex-direction: column-reverse;
+    justify-content: space-around !important;
+    height: 130px;
+}
+
+.desc-container .wi{
+    font-size: 85px;
+}
+
+.description{
+    margin: 0;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    @extend %font;
+}
+
+.hum{
+    font-size: 20px;
+    font-weight: bold;
+}
