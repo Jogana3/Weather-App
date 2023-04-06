@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
-@import url(../sass/_colors.scss);
-@import url(../sass/_font.scss);
-@import url(../sass/_top.scss);
-@import url(../sass/_sunrise_sunset.scss);
-@import url(../sass/_description.scss);
-@import url(../sass/_day.scss);
-@import url(../sass/_temp.scss);
+@import './colors';
+@import './font';
+@import './flex';
+@import './top';
+@import './sunrise_sunset';
+@import './description';
+@import './day';
+@import './temp';
+@import './main';
 
 *{
     margin: 0;
